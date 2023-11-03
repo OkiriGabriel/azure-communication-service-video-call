@@ -14,7 +14,7 @@ import {
 
 import React from 'react';
 
-const invitePeopleString = 'Invite people to join';
+const invitePeopleString = 'Invite student to join';
 const copyJoinInfoString = 'Copy join info';
 
 const copyJoinLink = (): void => {
