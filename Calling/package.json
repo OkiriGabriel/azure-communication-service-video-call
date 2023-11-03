@@ -38,8 +38,8 @@
     "react-router-dom": "^5.1.2",
     "reactstrap": "^8.4.1",
     "reselect": "~4.0.0",
-    "uuid": "^9.0.0",
-    "shake.js": "1.2.2"
+    "shake.js": "1.2.2",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@babel/core": "~7.16.0",
