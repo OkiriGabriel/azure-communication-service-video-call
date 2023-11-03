@@ -357,3 +357,7 @@ Calling/.vscode
 Calling/build/
 Server/.rush/temp/
 Server/.vscode/
+.vercel
+
+# Local Netlify folder
+.netlify

@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/Azure-Samples/communication-services-web-calling-hero/issues"
   },
-  "homepage": "https://github.com/Azure-Samples/communication-services-web-calling-hero#readme"
+  "homepage": "https://github.com/Azure-Samples/communication-services-web-calling-hero#readme",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "copy-webpack-plugin": "^11.0.0",
+    "rimraf": "^5.0.5",
+    "ts-loader": "^9.5.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
 }
