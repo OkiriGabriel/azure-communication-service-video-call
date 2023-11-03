@@ -1,7 +1,7 @@
 {
   "extends": "./common.tsconfig.json",
   "compilerOptions": {
-    "outDir": "./dist/dist-esm",
+    "outDir": "./dist",
     "baseUrl": "./src"
   },
   "typeRoots": ["./node_modules/@types"],
