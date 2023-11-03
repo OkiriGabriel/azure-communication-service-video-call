@@ -5,7 +5,11 @@
   "description": "This is the server side that supports all ACS sample applications",
   "scripts": {
     "prebuild": "npm install && npm install -D webpack-cli",
+<<<<<<< HEAD
     "build": "npm run clean && webpack --mode=production --env production --output public ",
+=======
+    "build": "npm run clean && webpack --mode=production --env production && webpack --config webpack.config.ts",
+>>>>>>> 3ab7f2cd549acbc4b80b95bf7c17405586c15f28
     "clean": "rimraf dist",
     "start": "ts-node ./bin/www",
     "start:dev": "ts-node-dev ./bin/www",
