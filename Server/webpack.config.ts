@@ -9,7 +9,7 @@ const config = {
   entry: './bin/www.ts',
   target: 'node',
   output: {
-    path: path.join(__dirname, '/dist'),
+    path: path.join(__dirname, 'public'),
     filename: 'server.js'
   },
   module: {
